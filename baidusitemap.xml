@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>https://mmiao.me/2018/07/22/wikipedia-train-traditional-chinese-embedding%EF%BC%88word2vec%EF%BC%89model/</loc>
+    <lastmod>2018-09-04T10:22:14.060Z</lastmod>
+    <data>
+        <display>
+        <title>wikipedia 训练繁（简）体中文 embedding(word2vec)模型</title>
+        <pubTime>2018-07-22T14:52:39.000Z</pubTime>
+        
+        <tag>Wikipedia</tag>
+         
+        <tag>Gensim</tag>
+         
+        <tag>Embedding</tag>
+         
+        <tag>Opencc</tag>
+         
+         
+           
+             
+              <breadCrumb title="NLP" url="https://mmiao.me/categories/NLP/"/>
+          
+             
+              <breadCrumb title="Word2vex" url="https://mmiao.me/categories/NLP/Word2vex/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+</urlset>

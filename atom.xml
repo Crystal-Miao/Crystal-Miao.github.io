@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>每一个有风的日子</title>
+  
+  <subtitle>喵~</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://mmiao.me/"/>
+  <updated>2018-09-04T10:22:14.060Z</updated>
+  <id>https://mmiao.me/</id>
+  
+  <author>
+    <name>mmiao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wikipedia 训练繁（简）体中文 embedding(word2vec)模型</title>
+    <link href="https://mmiao.me/2018/07/22/wikipedia-train-traditional-chinese-embedding%EF%BC%88word2vec%EF%BC%89model/"/>
+    <id>https://mmiao.me/2018/07/22/wikipedia-train-traditional-chinese-embedding（word2vec）model/</id>
+    <published>2018-07-22T14:52:39.000Z</published>
+    <updated>2018-09-04T10:22:14.060Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;由于课题任务需要一个繁体中文的word3vec, 折腾经过记录在此。希望以后少掉几个坑。&lt;br&gt;训练好的embedding放在&lt;a href=&quot;https://pan.baidu.com/s/1DB_Sft8N9XMyDP9cpVMpBw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;网盘&lt;/a&gt;中， 密码：&lt;code&gt;2um0&lt;/code&gt;&lt;br&gt;后来又按照这个方法训练了简体中文维度分别为50、100、200、300的embedding，一并放出来&lt;a href=&quot;https://pan.baidu.com/s/1JgjRBWwwrcJSy4taPFtLhA&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;网盘链接&lt;/a&gt; 密码：&lt;code&gt;751d&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="NLP" scheme="https://mmiao.me/categories/NLP/"/>
+    
+      <category term="Word2vex" scheme="https://mmiao.me/categories/NLP/Word2vex/"/>
+    
+    
+      <category term="Wikipedia" scheme="https://mmiao.me/tags/Wikipedia/"/>
+    
+      <category term="Gensim" scheme="https://mmiao.me/tags/Gensim/"/>
+    
+      <category term="Embedding" scheme="https://mmiao.me/tags/Embedding/"/>
+    
+      <category term="Opencc" scheme="https://mmiao.me/tags/Opencc/"/>
+    
+  </entry>
+  
+</feed>
