@@ -3,56 +3,6 @@
 
 
     
-  <url>
-    <loc>https://mmiao.me/2018/09/24/just-try-try/</loc>
-    <lastmod>2018-09-24T10:45:58.252Z</lastmod>
-    <data>
-        <display>
-        <title>需要人陪</title>
-        <pubTime>2018-09-24T10:44:44.000Z</pubTime>
-        
-        <tag>tag1</tag>
-         
-        <tag>tag2</tag>
-         
-         
-           
-             
-              <breadCrumb title="NLP" url="https://mmiao.me/categories/NLP/"/>
-          
-             
-              <breadCrumb title="二级" url="https://mmiao.me/categories/NLP/%E4%BA%8C%E7%BA%A7/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://mmiao.me/2018/09/24/miao-miao-miao/</loc>
-    <lastmod>2018-09-24T10:31:03.233Z</lastmod>
-    <data>
-        <display>
-        <title>喵喵喵</title>
-        <pubTime>2018-09-24T09:34:53.000Z</pubTime>
-        
-        <tag>tag1</tag>
-         
-        <tag>tag2</tag>
-         
-         
-           
-             
-              <breadCrumb title="学习笔记" url="https://mmiao.me/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-          
-             
-              <breadCrumb title="概率论" url="https://mmiao.me/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%A6%82%E7%8E%87%E8%AE%BA/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
     
   <url>
     <loc>https://mmiao.me/2018/09/12/just-try/</loc>
@@ -79,34 +29,6 @@
     </url>
 
     
-    
-  <url>
-    <loc>https://mmiao.me/2018/07/29/Github-and-Coding-bulid-blog/</loc>
-    <lastmod>2018-08-17T10:13:06.000Z</lastmod>
-    <data>
-        <display>
-        <title>用Github和Coding双线绑定自定义域名</title>
-        <pubTime>2018-07-29T09:26:57.000Z</pubTime>
-        
-        <tag>Github-pages</tag>
-         
-        <tag>Coding-pages</tag>
-         
-        <tag>DNSpod</tag>
-         
-        <tag>SSL</tag>
-         
-        <tag>Domain</tag>
-         
-         
-           
-             
-              <breadCrumb title="blog" url="https://mmiao.me/categories/blog/"/>
-          
-        </display>
-    </data>
-    </url>
-
     
     
     
