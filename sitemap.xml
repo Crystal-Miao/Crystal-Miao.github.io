@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mmiao.me/about/index.html</loc>
+    
+    <lastmod>2018-09-24T09:17:23.685Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mmiao.me/2018/09/12/just-try/</loc>
     
     <lastmod>2018-09-12T05:49:48.131Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://mmiao.me/top/index.html</loc>
     
     <lastmod>2018-09-04T10:26:58.486Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mmiao.me/about/index.html</loc>
-    
-    <lastmod>2018-09-03T05:34:16.000Z</lastmod>
     
   </url>
   
