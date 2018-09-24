@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mmiao.me/"/>
-  <updated>2018-09-12T05:49:48.131Z</updated>
+  <updated>2018-09-24T10:45:58.252Z</updated>
   <id>https://mmiao.me/</id>
   
   <author>
@@ -15,6 +15,56 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>需要人陪</title>
+    <link href="https://mmiao.me/2018/09/24/just-try-try/"/>
+    <id>https://mmiao.me/2018/09/24/just-try-try/</id>
+    <published>2018-09-24T10:44:44.000Z</published>
+    <updated>2018-09-24T10:45:58.252Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 爱你哟&lt;/p&gt;
+&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+    
+    </summary>
+    
+      <category term="NLP" scheme="https://mmiao.me/categories/NLP/"/>
+    
+      <category term="二级" scheme="https://mmiao.me/categories/NLP/%E4%BA%8C%E7%BA%A7/"/>
+    
+    
+      <category term="tag1" scheme="https://mmiao.me/tags/tag1/"/>
+    
+      <category term="tag2" scheme="https://mmiao.me/tags/tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>喵喵喵</title>
+    <link href="https://mmiao.me/2018/09/24/miao-miao-miao/"/>
+    <id>https://mmiao.me/2018/09/24/miao-miao-miao/</id>
+    <published>2018-09-24T09:34:53.000Z</published>
+    <updated>2018-09-24T10:31:03.233Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt; This is a summary&lt;/p&gt;
+&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="https://mmiao.me/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="概率论" scheme="https://mmiao.me/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%A6%82%E7%8E%87%E8%AE%BA/"/>
+    
+    
+      <category term="tag1" scheme="https://mmiao.me/tags/tag1/"/>
+    
+      <category term="tag2" scheme="https://mmiao.me/tags/tag2/"/>
+    
+  </entry>
   
   <entry>
     <title>我就是试试嘛</title>
