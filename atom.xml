@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mmiao.me/"/>
-  <updated>2019-07-19T09:35:01.955Z</updated>
+  <updated>2019-07-19T12:24:56.966Z</updated>
   <id>https://mmiao.me/</id>
   
   <author>
@@ -17,39 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://mmiao.me/2019/07/19/%E8%AE%A1%E7%AE%97%E5%B9%BF%E5%91%8A%20%E8%87%AA%E5%AD%A61.0/"/>
-    <id>https://mmiao.me/2019/07/19/计算广告 自学1.0/</id>
-    <published>2019-07-19T09:24:39.858Z</published>
-    <updated>2019-07-19T09:35:01.955Z</updated>
+    <title>计算广告1.0</title>
+    <link href="https://mmiao.me/2019/07/19/ad1.0/"/>
+    <id>https://mmiao.me/2019/07/19/ad1.0/</id>
+    <published>2019-07-19T12:20:53.000Z</published>
+    <updated>2019-07-19T12:24:56.966Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;title: 计算广告&lt;br&gt;comments: true&lt;br&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Learn&lt;/li&gt;
-&lt;li&gt;PM&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;商业产品&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;广告&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;  keywords:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;计算广告&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;post_copyright: true
-date: 2018-09-12 13:46:59 
-
-﻿ 我就是试试嘛，这里是摘要
-&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&quot;计算广告&quot;&gt;&lt;a href=&quot;#计算广告&quot; class=&quot;headerlink&quot; title=&quot; 计算广告&quot;&gt;&lt;/a&gt;&lt;font color=&quot;#87CEEB&quot; size=&quot;8&quot;&gt; &lt;strong&gt;计算广告&lt;/strong&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#87CEEB&quot; size=&quot;3&quot;&gt;Written with StackEdit  |10370 bytes | 520 lines&lt;br&gt;自学笔记1.0 by Miao&lt;br&gt;｡◕‿◕｡&lt;/font&gt;&lt;/p&gt;
-&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+      &lt;p&gt;&lt;font color=&quot;#87CEEB&quot; size=&quot;8&quot;&gt; &lt;strong&gt;计算广告&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color=&quot;#87CEEB&quot; size=&quot;3&quot;&gt;Written with StackEdit  |10370 bytes | 520 lines&lt;br&gt;自学笔记1.0 by Miao&lt;br&gt;｡◕‿◕｡&lt;/font&gt;&lt;/p&gt;
     
     </summary>
     
+      <category term="Learn" scheme="https://mmiao.me/categories/Learn/"/>
+    
+      <category term="PM" scheme="https://mmiao.me/categories/Learn/PM/"/>
+    
+    
+      <category term="广告" scheme="https://mmiao.me/tags/%E5%B9%BF%E5%91%8A/"/>
+    
+      <category term="商业产品" scheme="https://mmiao.me/tags/%E5%95%86%E4%B8%9A%E4%BA%A7%E5%93%81/"/>
     
   </entry>
   
